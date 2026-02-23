@@ -67,22 +67,17 @@ News_Article_Classification/
 ├── README.md
 └── requirements.txt
 
-
 ---
 
 ## ▶️ How to Run the Project
 
 1️⃣ Install dependencies:
 
-
 pip install -r requirements.txt
-
 
 2️⃣ Run the application:
 
-
 streamlit run app.py
-
 
 ---
 
@@ -92,7 +87,7 @@ streamlit run app.py
 - Explainable AI Visualization
 - Confusion Matrix Dashboard
 - Cloud Deployment
-- User Authentication
+- User Authentication- Cloud Deployment (Streamlit Cloud / Render)
 
 ---
 
